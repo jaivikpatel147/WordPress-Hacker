@@ -1,5 +1,5 @@
 # :fire: WordPress Hacker[Professional & Full Options] :fire:
-<b>:man_technologist:Coded By .::Shayan::.</b></br>
+<b>:man_technologist:Coded By .::JAIVIK PATEL::.</b></br>
 <b>:comet:This Script Can Generate,Crack And Check Hash Type!</b></br>
 <b>:pray:Thank's For Using Our Script :)</b></br></br>
 
@@ -26,8 +26,7 @@
 <a href="https://www.aparat.com/v/9uSUg">Aparat.com/v/9uSUg</a></br></br>
 
 <b>:point_down: Our Channels: :point_down:</b><br/>
-<i>Telegram Channel : </i><b><a href="https://Yon.ir/xcehr">Yon.ir/xcehr</a></b><br/>
-<i>Aparat Channel: </i><b><a href="https://Yon.ir/xNuvz">Yon.ir/xNuvz</a></b><br/>
-<i>Github Channel: </i><b><a href="https://Yon.ir/mptyD">Yon.ir/mptyD</a></b><br/>
-<i>Youtube Channel: </i><b><a href="https://Yon.ir/Qt3ZK">Yon.ir/Qt3ZK</a></b><br/>
+<i>twitter: </i><b><a href="https://twitter.com/jaivikpatel47">Yon.ir/xcehr</a></b><br/>
+<i>Facebook: </i><b><a href="https://www.facebook.com/hackerisinside">Yon.ir/xNuvz</a></b><br/>
+<i>Github Channel: </i><b><a href="https://github.com/jaivikpatel147">Yon.ir/mptyD</a></b><br/>
 <b>Follow Us</b>

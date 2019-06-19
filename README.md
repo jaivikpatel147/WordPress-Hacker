@@ -26,7 +26,7 @@
 <a href="https://www.aparat.com/v/9uSUg">Aparat.com/v/9uSUg</a></br></br>
 
 <b>:point_down: Our Channels: :point_down:</b><br/>
-<i>twitter: </i><b><a href="https://twitter.com/jaivikpatel47">Yon.ir/xcehr</a></b><br/>
-<i>Facebook: </i><b><a href="https://www.facebook.com/hackerisinside">Yon.ir/xNuvz</a></b><br/>
-<i>Github Channel: </i><b><a href="https://github.com/jaivikpatel147">Yon.ir/mptyD</a></b><br/>
+<i>twitter: </i><b><a href="https://twitter.com/jaivikpatel47">https://twitter.com/jaivikpatel47</a></b><br/>
+<i>Facebook: </i><b><a href="https://www.facebook.com/hackerisinside">https://www.facebook.com/hackerisinside</a></b><br/>
+<i>Github Channel: </i><b><a href="https://github.com/jaivikpatel147">https://github.com/jaivikpatel147</a></b><br/>
 <b>Follow Us</b>
